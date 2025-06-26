@@ -1,0 +1,2 @@
+# BlazeLang
+Simple ligthweigthed language
